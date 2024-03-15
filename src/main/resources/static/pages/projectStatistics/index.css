@@ -1,0 +1,33 @@
+.container {
+    margin-top: 20px;
+}
+
+.item {
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.text {
+    margin-top: 5px;
+    margin-right: 20px;
+    font-size: 16px;
+}
+
+.value {
+    width: 400px;
+}
+
+.statistics {
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.stat-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+}
